@@ -1,6 +1,7 @@
 # fox
 A  minimalistic, lightweight, and clean Firefox userChrome.css theme.
 Every UI panel is hidden by default, leaving nothing but your content. Sidebar reveals  only when you use a keybind.
+Tab bar only reveals on hover or  when URL bar is focussed
 
 ![](preview.png)
 
@@ -25,7 +26,8 @@ Every UI panel is hidden by default, leaving nothing but your content. Sidebar r
 4. **Restart Firefox** - the theme activates on next launch.
 
 ## Toggle Visibility
-Press **Ctrl+Alt+Z** or click the **Toggle sidebar** button to switch between:
+Press **Ctrl+Alt+Z** or click the **Toggle sidebar** button to switch between.
+Press **Ctrl+L** or **Ctrl+J** or **Ctrl+k** to open the URL bar or Tab bar. 
 
-## ## License
+## License
 **MIT**
